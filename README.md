@@ -1,0 +1,6 @@
+```
+AP : M307FXXU4BTK1
+CSC : M307FODM4BTH2 (INS)
+Android : Q(Android 10)
+Build Date : 20201118223304
+```
